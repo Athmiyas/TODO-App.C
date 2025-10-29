@@ -1,7 +1,7 @@
 # TODO-App.C
 A simple and efficient ToDo app built with React Native that helps you manage your tasks effortlessly. This app offers a clean user interface with features like task listing, adding, editing, and deleting tasks. With input error validation and persistent storage, your tasks are in safe hands.
 
-Features ✨
+#h5 Features ✨
 Cross platform mobile app: supports both ios and android
 List All User Tasks: View all your tasks at a glance in the list view.
 Add, Edit, and Delete Tasks: Easily add, edit, or delete tasks based on your needs.
